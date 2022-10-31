@@ -1,0 +1,42 @@
+header {
+    padding: 1rem 0;
+  
+    width: 100%;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+  
+header>img {
+    margin-bottom: 0.5rem;
+    width: 1.5rem;
+}
+  
+header>h1 {
+    text-align: center;
+
+    font-family: var(--font-main);
+}
+  
+header>p {
+    margin: auto;
+    text-align: center;
+  
+    width: 80%;
+  
+    font-size: 0.8rem;
+    color: var(--gray);
+}
+
+hr {
+    margin: 1rem auto 1rem auto;
+  
+    width: 25%;
+  
+    background: var(--gray);
+  
+    border: solid 3px var(--gray);
+    border-radius: 1rem;
+}

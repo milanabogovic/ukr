@@ -1,0 +1,54 @@
+{
+    "battles": [
+        {
+            "name": "Battle of Avdiivka",
+            "oblast": "Donetsk",
+            "startDate": "21. February",
+            "endDate": "ongoing",
+            "theatre": "Eastern",
+            "result": "Ongoing",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "id": 0
+        },
+        {
+            "name": "Siege of Marinka",
+            "oblast": "Donetsk",
+            "startDate": "17. March",
+            "endDate": "ongoing",
+            "theatre": "Eastern",
+            "result": "Ongoing",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "id": 1
+        },
+        {
+            "name": "Battle of Bakhmut",
+            "oblast": "Donetsk",
+            "startDate": "1. August",
+            "endDate": "ongoing",
+            "theatre": "Eastern",
+            "result": "Ongoing",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "id": 2
+        },
+        {
+            "name": "Battle of Kyiv",
+            "oblast": "Kyiv City",
+            "startDate": "25. February",
+            "endDate": "31. March",
+            "theatre": "Kyiv offensive",
+            "result": "Ukrainian victory",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "id": 3
+        },
+        {
+            "name": "Battle of Lysychansk",
+            "oblast": "Luhansk",
+            "startDate": "25. June",
+            "endDate": "3. July",
+            "theatre": "Eastern",
+            "result": "Russian victory",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "id": 4
+        }
+    ]
+}

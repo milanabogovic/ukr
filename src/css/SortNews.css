@@ -1,0 +1,33 @@
+.SortNews {
+    margin-bottom: 1.3rem;
+}
+
+.SortNews>p {
+    margin-bottom: 0.4rem;
+
+    font-size: 0.9rem;
+    color: var(--gray);
+}
+
+.SortNews>.sort__button {
+    margin-right: 0.3rem;
+    padding: 0.3rem 0.5rem;
+  
+    background-color: #fff;
+  
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--black);
+  
+    border-style: none;
+    border-radius: 0.3rem;
+    box-shadow: var(--shadow-subtle);
+
+    transition: 0.3s;
+}
+
+.SortNews>.sort__button:hover {
+    background: var(--black);
+    color: #fff;
+}

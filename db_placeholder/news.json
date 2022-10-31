@@ -1,0 +1,45 @@
+{
+    "news": [
+        {
+            "title": "Gas supplies reduced by 50%",
+            "subtitle": "Gas supplies to Europe reduced significantly.",
+            "content": "Russia has reduced gas supplies to Europe by 50 billion cubic meters over the past 4-5 months, as of October 1, the drop was 47%, said the head of Novatek, Leonid Mikhelson.",
+            "category": "economy",
+            "image": "gaspipes.jpg",
+            "id": 0
+        },
+        {
+            "title": "Kiev power shortage",
+            "subtitle": "Critical facilities put out of action.",
+            "content": "\"Kiev Electric Networks\": A number of critical facilities have been put out of action, a power shortage of 30% of consumption has arisen in Kiev and the region - in order to prevent a complete blackout of the capital and central regions, unprecedented emergency restrictions are introduced",
+            "category": "economy",
+            "image": "gaspipes.jpg",
+            "id": 1
+        },
+        {
+            "title": "Rocket fuel plant destroyed",
+            "subtitle": "Plant producing solid rocked fuel struck.",
+            "content": "Ministry of Defense of the Russian Federation: A plant for the production of solid rocket fuel, explosives and gunpowder was destroyed in the Dnepropetrovsk region.",
+            "category": "military",
+            "image": "gaspipes.jpg",
+            "id": 2
+        },
+        {
+            "title": "Quadrocopter mass production",
+            "subtitle": "Russia producing a thousand of drones.",
+            "content": "Almaz-Antey announced that it has begun mass production of quadrocopters - by the end of the year, about 1 thousand drones will be produced at a price \"significantly lower than foreign analogues\".",
+            "category": "military",
+            "image": "gaspipes.jpg",
+            "id": 3
+        },
+        {
+            "title": "Kherson direction difficulties",
+            "subtitle": "Situation unpleasant for Kiev.",
+            "content": "The situation in the Kherson direction is changing in an unpleasant direction for Kiev, Aleksey Arestovich, adviser to the head of Vladimir Zelensky’s office, said on the YouTube channel of journalist Mark Feygin",
+            "category": "military",
+            "image": "gaspipes.jpg",
+            "id": 4
+        }
+        
+    ]
+}
